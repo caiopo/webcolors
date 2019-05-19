@@ -1,14 +1,12 @@
 # webcolors
 
-A new Flutter package.
+[X11/CSS3 colors](https://en.wikipedia.org/wiki/Web_colors#X11_color_names) for Flutter projects.
 
-## Getting Started
+## Example
+```dart
+import 'package:webcolors/webcolors.dart';
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+void main() {
+  print(WebColors.indianRed);
+}
+```

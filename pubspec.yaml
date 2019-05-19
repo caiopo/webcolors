@@ -1,5 +1,5 @@
 name: webcolors
-description: X11/CSS3 colors for Flutter projects.
+description: Package exporting all 137 X11/CSS3 colors for Flutter projects.
 version: 0.1.0
 author: Caio Pereira Oliveira <caiopoliveira@gmail.com>
 homepage: https://github.com/caiopo/webcolors

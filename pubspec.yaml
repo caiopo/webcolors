@@ -1,8 +1,8 @@
 name: webcolors
-description: A new Flutter package.
-version: 0.0.1
-author:
-homepage:
+description: X11/CSS3 colors for Flutter projects.
+version: 0.1.0
+author: Caio Pereira Oliveira <caiopoliveira@gmail.com>
+homepage: https://github.com/caiopo/webcolors
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

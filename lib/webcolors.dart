@@ -2,7 +2,7 @@ library webcolors;
 
 import 'package:flutter/painting.dart';
 
-class Webcolors {
+class WebColors {
   // Pink colors
   static const pink = Color(0xFFFFC0CB);
   static const lightPink = Color(0xFFFFB6C1);
